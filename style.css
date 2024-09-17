@@ -4,3 +4,9 @@ body {
  p {
     color: black;
  }
+ h1 {font-style: italic;
+}
+.bela {
+    color: rgb(51, 51, 150);
+    font-size: medium;
+}
